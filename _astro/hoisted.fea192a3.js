@@ -1,0 +1,1 @@
+import{S as o}from"./splide.esm.a7d191c3.js";import"./SlideCard.astro_astro_type_script_index_0_lang.4bfb2ee9.js";import"./hoisted.9b500507.js";new o(".splide",{autoplay:!0,arrows:!1,interval:4e3,type:"loop"}).mount();
